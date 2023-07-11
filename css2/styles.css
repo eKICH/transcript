@@ -1,0 +1,19 @@
+.form-message{
+  margin-left: 1vw;
+}
+
+.form-error{
+  color: red;
+}
+
+.form-success{
+  color: green;
+}
+
+.input-error{
+  box-shadow: 0 0 5px red;
+}
+
+.input-success{
+  box-shadow: 0 0 5px green;
+}
